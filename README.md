@@ -12,3 +12,5 @@ Een duidelijk voorbeeld van een __Break__ functie vind je [hier](https://www.w3s
 
 Terwijl een **Continue functie** juist de loop zou laten doorgaan maar dan word 1 itteratie van die loop overgeslagen.
 Een duidelijk voorbeeld van een __Continue__ functie vind je [hier](https://www.w3schools.com/js/tryit.asp?filename=tryjs_continue).
+
+Deze 2 functies heb ik leren begrijpen [hier](https://www.w3schools.com/js/js_break.asp), daar kan je dus ook kijken voor meer informatie rond deze 2 functies.
