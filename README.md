@@ -6,6 +6,8 @@ Lab 1| [Lab 1 repository](https://github.com/LiamP2000/DEV5-LAB1/tree/main)| Sam
 Lab 2| [Lab 2 repository](https://github.com/jarnejens/DEV5-LAB2)| [vercel](https://dev5-lab2-id09xhcdi-jarnejens.vercel.app/)
 Lab 3| [Lab 3 repository](https://github.com/jarnejens/DEV5-LAB3)| [vercel](https://dev-5-lab-3-3nua5dynw-jarnejens.vercel.app/)
 Lab 4| [Lab 4 repository](https://github.com/jarnejens/DEV5-LAB4)| [vercel](https://lab4-jarnejens.vercel.app/)
+Lab 4| [Lab 5 repository](https://github.com/jarnejens/DEV5-LAB5)| 
+Lab 4| [Lab 6 repository](https://github.com/jarnejens/DEV5-LAB6)| 
 
 
 ## JavaScript Break and Continue
